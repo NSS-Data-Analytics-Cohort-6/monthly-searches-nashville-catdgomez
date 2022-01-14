@@ -47,6 +47,7 @@
 14. Create a header at the top of column F called “Month Num”. Use a `VLOOKUP` to match the month name in the Month column (A) to the lookup table in `M11`:`N22` in order to populate the “Month Num” in column F.
 
 15. Select columns A through G and create a custom sort (Home --> Sort & Filter --> Custom Sort).
+
 16. Sort by the largest to smallest Year as your first level, Month Num largest to smallest as your second value, and Query Text A-Z as your third level. Scroll through to find how many times “fairgrounds” was searched in July 2018.
 
 17. Find which month in 2016 had the most searches for “fire”. Try to use a Custom Sort to save yourself from too much scrolling up and down.
